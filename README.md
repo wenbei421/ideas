@@ -1,2 +1,2 @@
 # ideas
-this is a ideas project of my 
+this is a my ideas
