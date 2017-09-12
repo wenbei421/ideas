@@ -12,3 +12,7 @@ this is a my ideas
 	*	[C# WinForm控件、自定义控件整理（大全）](http://www.cnblogs.com/top5/archive/2010/04/29/1724039.html)
 	*	[C# WinForm开发系列 - Grid Controls](http://www.cnblogs.com/peterzb/archive/2009/05/29/1491781.html)
 	*	[electron 入门](http://www.cnblogs.com/auh2010006/p/5717845.html)
+	*	[everything UsnJournal]
+		*	[http://blog.sina.com.cn/s/blog_7768d221010136ad.html](http://blog.sina.com.cn/s/blog_7768d221010136ad.html)
+		*	[http://univasity.iteye.com/blog/805235](http://univasity.iteye.com/blog/805235)
+		*	[http://blog.csdn.net/qq_16542775/article/details/52369406](http://blog.csdn.net/qq_16542775/article/details/52369406)
