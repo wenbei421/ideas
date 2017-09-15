@@ -2,6 +2,7 @@
 this is a my ideas
 *	[小工具]
 	*	[高效的设计稿标注、测量工具](http://www.getmarkman.com/)
+	*	[sass安装](http://blog.csdn.net/u012011360/article/details/45042803)		
 *   [已完成]
 *   [待完成]
 	*	[Composite C1 CMS](http://www.cnblogs.com/Leo_wl/p/3145195.html)
