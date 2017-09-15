@@ -1,6 +1,6 @@
 # ideas
 this is a my ideas
-*	[工具]
+*	[小工具]
 	*	[高效的设计稿标注、测量工具](http://www.getmarkman.com/)
 *   [已完成]
 *   [待完成]
