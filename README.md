@@ -4,18 +4,17 @@ this is a my ideas
 	*	[高效的设计稿标注、测量工具](http://www.getmarkman.com/)
 	*	[sass入门教程](http://www.w3cplus.com/sassguide/)		
 	*	[.net core 2.0 常用命令]
-| cmd                                                                                                                    | Remarks                         |
-| -----------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------- |
-| dotnet new sln                                                                                                         | 创建一个空白方案                                           |
-| mkdir web                                                                                                              | 创建一个名称为web的文件夹                                   |
-| cd web                                                                                                                 | 进入web文件夹                                              |
-| mv web LisReportBrower.Web                                                                                             | 将web重命名为LisReportBrower.Web                          |
-| dotnet new mvc                                                                                                         | 创建一个mvc web app                                      |
-| cd ..                                                                                                                  | 返回上级目录                                                |
-| dotnet sln add LisReportBrower.Web\LisReportBrower.Web.csproj                                                          | 将LisReportBrower.Web.csproj添加到当前解决方案中 |
-| dotnet new classlib                                                                                                    | 创建一个类库                                                |
-| dotnet add LisReportBrower.Web/LisReportBrower.Web.csproj reference LisReportBrower.Model/LisReportBrower.Model.csproj | 添加引用                                                    |
-| dotnet LisReportBrower.Web.dll                                                                                         | 启动 web app                                              |
+		* dotnet new sln   创建一个空白方案  
+		* mkdir web  创建一个名称为web的文件夹
+		* cd web  进入web文件夹 
+		* mv web LisReportBrower.Web   将web重命名为LisReportBrower.Web  
+		* dotnet new mvc   创建一个mvc web app  
+		* cd ..   返回上级目录  
+		* dotnet sln add LisReportBrower.Web\LisReportBrower.Web.csproj   将LisReportBrower.Web.csproj添加到当前解决方案中  
+		* dotnet new classlib   创建一个类库  
+		* dotnet add LisReportBrower.Web/LisReportBrower.Web.csproj reference LisReportBrower.Model/LisReportBrower.Model.csproj 添加引用 
+		* dotnet LisReportBrower.Web.dll   启动 web app  
+
 *   [已完成]
 *   [待完成]
 	*	[Composite C1 CMS](http://www.cnblogs.com/Leo_wl/p/3145195.html)
