@@ -4,7 +4,7 @@ this is a my ideas
 	*	[高效的设计稿标注、测量工具](http://www.getmarkman.com/)
 	*	[sass入门教程](http://www.w3cplus.com/sassguide/)		
 	*	[.net core 2.0 常用命令]
-```shell
+```javascript
 cmd dotnet new sln   --创建一个空白方案 
 ``` 
 		* mkdir web  创建一个名称为web的文件夹
