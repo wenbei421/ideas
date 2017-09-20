@@ -6,6 +6,7 @@ this is a my ideas
 	*	[.net core 2.0 常用命令]
 | cmd                                              | Remarks                   |
 | --------------------------------------------------- | ------------------------- |
+<br>
 | dotnet new sln | 创建一个空白方案 |
 | mkdir web | 创建一个名称为web的文件夹 |
 | cd web | 进入web文件夹 |
