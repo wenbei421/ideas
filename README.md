@@ -13,7 +13,8 @@ this is a my ideas
 		* ``dotnet sln add LisReportBrower.Web\LisReportBrower.Web.csproj``   将LisReportBrower.Web.csproj添加到当前解决方案中  
 		* ``dotnet new classlib``   创建一个类库  
 		* ``dotnet add LisReportBrower.Web/LisReportBrower.Web.csproj reference LisReportBrower.Model/LisReportBrower.Model.csproj`` 添加引用 
-		* ``dotnet LisReportBrower.Web.dll``   启动 web app  
+		* ``dotnet LisReportBrower.Web.dll``   启动 web app  
+	*	[初雪之恋自定义URL Protocol Handler 呼出应用程序](http://www.cnblogs.com/wang726zq/archive/2012/12/11/UrlProtocol.html)
 
 *   [已完成]
 *   [待完成]
