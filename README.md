@@ -33,3 +33,4 @@ this is a my ideas
 		*	[http://univasity.iteye.com/blog/805235](http://univasity.iteye.com/blog/805235)
 		*	[http://blog.csdn.net/qq_16542775/article/details/52369406](http://blog.csdn.net/qq_16542775/article/details/52369406)
 		*	[H:\Source\UsnJournalProject.rar](H:\Source\UsnJournalProject.rar)
+	*	[Inno Setup 5.0.7 文档](https://wenku.baidu.com/view/620e2679168884868762d612.html)
