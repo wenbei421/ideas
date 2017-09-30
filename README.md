@@ -34,6 +34,5 @@ this is a my ideas
 		*	[http://blog.csdn.net/qq_16542775/article/details/52369406](http://blog.csdn.net/qq_16542775/article/details/52369406)
 		*	[H:\Source\UsnJournalProject.rar](H:\Source\UsnJournalProject.rar)
 	*	[Inno Setup 5.0.7 文档](https://wenku.baidu.com/view/620e2679168884868762d612.html)
-	*	[js模版引擎](http://blog.csdn.net/Marksinoberg/article/details/73187556?utm_source=tuicool&utm_medium=referral)
-
+	*	[js模版引擎](http://blog.csdn.net/Marksinoberg/article/details/73187556?utm_source=tuicool&utm_medium=referral)(http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
 
