@@ -35,5 +35,5 @@ this is a my ideas
 		*	[H:\Source\UsnJournalProject.rar](H:\Source\UsnJournalProject.rar)
 	*	[Inno Setup 5.0.7 文档](https://wenku.baidu.com/view/620e2679168884868762d612.html)
 	*	[js模版引擎](http://blog.csdn.net/Marksinoberg/article/details/73187556?utm_source=tuicool&utm_medium=referral)[js模版引擎原理](http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
-	*	[分布式框架](http://www.cnblogs.com/binyue/p/5312193.html)
+	*	[分布式框架](http://www.cnblogs.com/Andon_liu/p/5353488.html)
 
