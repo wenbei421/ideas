@@ -15,6 +15,7 @@ this is a my ideas
 		* ``dotnet add LisReportBrower.Web/LisReportBrower.Web.csproj reference LisReportBrower.Model/LisReportBrower.Model.csproj`` 添加引用 
 		* ``dotnet LisReportBrower.Web.dll``   启动 web app  
 	*	[初雪之恋自定义URL Protocol Handler 呼出应用程序](http://www.cnblogs.com/wang726zq/archive/2012/12/11/UrlProtocol.html)
+	*	[全国医疗信息化联盟](http://chisc.net)
 
 *   [已完成]
 *   [待完成]
