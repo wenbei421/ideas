@@ -38,4 +38,5 @@ this is a my ideas
 	*	[js模版引擎](http://blog.csdn.net/Marksinoberg/article/details/73187556?utm_source=tuicool&utm_medium=referral)[js模版引擎原理](http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
 	*	[分布式框架](http://www.cnblogs.com/Andon_liu/p/5353488.html)
 	*	[OSGi入门学习资源](http://www.osgi.com.cn/article/7289520)
+	*	[Mycat 数据库分库分表中间件](http://www.mycat.io/)
 
