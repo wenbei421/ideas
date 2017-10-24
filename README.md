@@ -39,4 +39,5 @@ this is a my ideas
 	*	[分布式框架](http://www.cnblogs.com/Andon_liu/p/5353488.html)
 	*	[OSGi入门学习资源](http://www.osgi.com.cn/article/7289520)
 	*	[Mycat 数据库分库分表中间件](http://www.mycat.io/)
+	*	[layui](http://www.layui.com/)
 
