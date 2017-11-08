@@ -40,4 +40,7 @@ this is a my ideas
 	*	[OSGi入门学习资源](http://www.osgi.com.cn/article/7289520)
 	*	[Mycat 数据库分库分表中间件](http://www.mycat.io/)
 	*	[layui](http://www.layui.com/)
+	*	[expressjs](http://www.expressjs.com.cn/)
+	*	[nodejs + express + mssql 封装数据操作](https://segmentfault.com/a/1190000010324061)
+	*	[nodejs连接sqlserver数据库简单封装-mssql模块](http://blog.csdn.net/zzwwjjdj1/article/details/51911270)
 
