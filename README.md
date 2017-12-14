@@ -18,6 +18,8 @@ this is a my ideas
 	*	[全国医疗信息化联盟](http://chisc.net)
 
 *   [已完成]
+	*	[Inc文件在Delphi中的用法](http://blog.csdn.net/webroad/article/details/3049359)
+	*	[Delphi 的编译指令](https://www.cnblogs.com/del/archive/2008/12/17/1356774.html)
 *   [待完成]
 	*	[Composite C1 CMS](http://www.cnblogs.com/Leo_wl/p/3145195.html)
 	*	[phodal ideas](https://github.com/phodal/ideas)
