@@ -46,5 +46,7 @@ this is a my ideas
 	*	[nodejs + express + mssql 封装数据操作](https://segmentfault.com/a/1190000010324061)
 	*	[nodejs连接sqlserver数据库简单封装-mssql模块](http://blog.csdn.net/zzwwjjdj1/article/details/51911270)
 	*	[AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload)
+	*	[华天动力OA](http://demo.oa8000.com)
+	
 	
 
