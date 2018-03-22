@@ -47,6 +47,6 @@ this is a my ideas
 	*	[nodejs连接sqlserver数据库简单封装-mssql模块](http://blog.csdn.net/zzwwjjdj1/article/details/51911270)
 	*	[AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload)
 	*	[华天动力OA](http://demo.oa8000.com)
-	
+	*	[AVue](https://gitee.com/woerwin/avue)
 	
 
