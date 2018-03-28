@@ -48,5 +48,6 @@ this is a my ideas
 	*	[AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload)
 	*	[华天动力OA](http://demo.oa8000.com)
 	*	[AVue](https://gitee.com/woerwin/avue)
-	*	[windows虚拟机Hyper-V链接网络设置](https://blog.csdn.net/cesarean/article/details/62420607)		
+	*	[windows虚拟机Hyper-V链接网络设置](https://blog.csdn.net/cesarean/article/details/62420607)
+	*	[zxing扫描二维码和识别图片二维码及其优化策略](http://iluhcm.com/2016/01/08/scan-qr-code-and-recognize-it-from-picture-fastly-using-zxing/)
 
