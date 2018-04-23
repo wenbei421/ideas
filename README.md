@@ -50,4 +50,6 @@ this is a my ideas
 	*	[AVue](https://gitee.com/woerwin/avue)
 	*	[windows虚拟机Hyper-V链接网络设置](https://blog.csdn.net/cesarean/article/details/62420607)
 	*	[zxing扫描二维码和识别图片二维码及其优化策略](http://iluhcm.com/2016/01/08/scan-qr-code-and-recognize-it-from-picture-fastly-using-zxing/)
+	*	[Delphi MDIForm 画背景图](http://blog.sina.com.cn/s/blog_4ad042e50102e150.html)
+
 
