@@ -52,5 +52,4 @@ this is a my ideas
 	*	[zxing扫描二维码和识别图片二维码及其优化策略](http://iluhcm.com/2016/01/08/scan-qr-code-and-recognize-it-from-picture-fastly-using-zxing/)
 	*	[Delphi MDIForm 画背景图](http://blog.sina.com.cn/s/blog_4ad042e50102e150.html)
 	*	[5个精致的 CSS 框架](https://blog.gitee.com/2018/05/02/weekly70/?from=20180506)
-
-
+	*	[teamscreen](https://github.com/boonkerz/teamscreen)
