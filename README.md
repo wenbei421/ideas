@@ -62,3 +62,4 @@ this is a my ideas
 	*	[win10-ui](https://github.com/yuri2peter/win10-ui)	 
 	*	[ibeetl](http://ibeetl.com/)	
 	*	[C1-CMS-Foundation](https://github.com/Orckestra/C1-CMS-Foundation)
+	*	[一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库](https://github.com/dotnetcore/WebApiClient)
